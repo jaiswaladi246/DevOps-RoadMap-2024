@@ -1,4 +1,6 @@
-Sure! Here's a detailed and categorized DevSecOps & Cloud DevOps roadmap syllabus:
+# DevSecOps & Cloud DevOps Roadmap Syllabus
+
+![RoadMap 2024](roadmap1.png)
 
 ## DevSecOps & Cloud DevOps Roadmap Syllabus
 
