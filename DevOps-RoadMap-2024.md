@@ -120,6 +120,10 @@ Sure! Here's a detailed and categorized DevSecOps & Cloud DevOps roadmap syllabu
 - Azure DevOps Engineer Expert
 - Kubernetes Certified Administrator
 
+### RealTime Troubleshooting
+- DevOps Tools Errors
+- Devops tools troubleshooting
+
 ### Soft Skills
 - Collaboration and Communication within DevOps Teams
 - Problem Solving and Troubleshooting in Cloud Environments
